@@ -1,0 +1,31 @@
+{
+  "name": "calender_Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "googleapis": "^109.0.0",
+    "gtts": "^0.2.1",
+    "http": "0.0.1-security",
+    "moment": "^2.29.4",
+    "mongoose": "^6.7.0",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^2.6.7",
+    "node-geocoder": "^4.2.0",
+    "node-uuid": "^1.4.8",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "socket.io": "^4.5.3",
+    "sound-play": "^1.1.0"
+  }
+}
